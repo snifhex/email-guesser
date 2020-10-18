@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setup(
     name="mail_guesser", 
-    version="0.0.1",
+    version="0.0.2",
     author="Sachin Tripathi",
     author_email="sachintripathi@protonmail.com",
     description="A Email Guesser",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/snifhex/python-package-development",
+    url="https://github.com/snifhex/email-guesser",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
